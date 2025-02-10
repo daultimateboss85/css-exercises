@@ -1,0 +1,21 @@
+.a_class{
+    font-family: Verdana, sans-serif;
+    background-color: #ffa7a7;
+}
+
+.a_class.cooler{
+    font-size: 24px;
+}
+
+#num2{
+    font-weight: 1000;
+    font-size: 36px;
+    font-family: "DejaVu Sans", sans-serif;
+    color: blue;
+}
+
+
+#num4{
+    background-color: #80ff80;
+    font-size: 24px;
+}
